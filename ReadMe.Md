@@ -14,6 +14,6 @@ This is a good tool that make your persistences automatically in the system at t
 
 
 
-
+por you can use with help of the bash script too if python is not in the machine .
 
 
